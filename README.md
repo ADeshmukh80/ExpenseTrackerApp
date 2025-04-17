@@ -18,6 +18,7 @@ A simple and intuitive Expense Tracker application to help users manage their pe
 
 ## 📸 Screenshots
 
-![App Screenshot](./screenshots/img1.png) <!-- Update the path as per your repo structure -->
+![App Screenshot](![img1](https://github.com/user-attachments/assets/457b6488-8901-4152-8eb8-148877c4e4bc)
+) <!-- Update the path as per your repo structure -->
 
 
