@@ -104,12 +104,10 @@ npm install
 npm run dev
 ```
 ```
-
+```
 ## 📸 Screenshots
 
 ![img1](https://github.com/user-attachments/assets/3d7eaf41-66c1-46ef-9b99-d3dd619297b3) <!-- Update the path as per your repo structure -->
-
-
 
 
 
