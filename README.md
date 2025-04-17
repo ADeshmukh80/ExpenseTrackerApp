@@ -63,6 +63,7 @@ This Expense Management System allows users to:
   - `react-datepicker` & `moment` – Date handling
   - `unique-names-generator` – Name generation
 
+
 ### 🌐 Backend
 
 - **Runtime**: Node.js with Express.js
@@ -78,8 +79,16 @@ This Expense Management System allows users to:
 
 ## 🛠 Run Locally
 
+
 ### Step 1: Clone the Repository
 
 ```bash
 git clone https://github.com/ADeshmukh80/ExpenseTrackerApp.git
 cd ExpenseTrackerApp
+
+## 📸 Screenshots
+
+![img1](https://github.com/user-attachments/assets/3d7eaf41-66c1-46ef-9b99-d3dd619297b3)(./screenshots/app-screenshot.png) <!-- Update the path as per your repo structure -->
+
+
+
