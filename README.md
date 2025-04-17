@@ -77,23 +77,33 @@ This Expense Management System allows users to:
 
 ---
 
+
+```markdown
 ## 🛠 Run Locally
 
 ### Step 1: Clone the Repository
 
-```bash```
+```bash
 git clone https://github.com/ADeshmukh80/ExpenseTrackerApp.git
 cd ExpenseTrackerApp
+```
 
-## Step 2: Setup Frontend
+### Step 2: Setup Frontend
+
+```bash
 cd frontend
 npm install
 npm start
+```
 
-## Step 3: Setup Backend
+### Step 3: Setup Backend
+
+```bash
 cd ../backend
 npm install
 npm run dev
+```
+```
 
 ## 📸 Screenshots
 
